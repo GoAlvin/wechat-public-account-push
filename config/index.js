@@ -87,49 +87,7 @@ export const USER_CONFIG = {
         {"keyword": "love_day", date: "2022-08-16"},
       ]
     },
-    {
-      name: "然然",
-      id: "owwS850A8tGXylnbDYQYJjkolWaQ",
-      useTemplateId: "EDhvt-JU3Dp_9WsvoE6SU2ivv5HCEhFhd7eHv-ThcmE",
-      province: "湖北",
-      city: "武汉",
-      horoscopeDate: '11-26',
-      horoscopeDateType: '今日',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "08-16"},
-      ],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: [
-        // 在一起的日子
-        {"keyword": "love_day", date: "2022-08-16"},
-      ]
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    // 你可以不断按格式往下增加
-    // ...
-  ],
+ 
   
   /**
    * 【推送完成提醒】 相关，主要用来展示发送是否成功/失败的数据
