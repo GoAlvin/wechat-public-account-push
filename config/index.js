@@ -89,7 +89,7 @@ export const USER_CONFIG = {
     },
     {
       name: "然然",
-      id: "嘉伟Gavin",
+      id: "owwS850A8tGXylnbDYQYJjkolWaQ",
       useTemplateId: "owwS850A8tGXylnbDYQYJjkolWaQ",
       province: "湖北",
       city: "武汉",
