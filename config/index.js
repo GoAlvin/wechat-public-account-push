@@ -85,10 +85,28 @@ export const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         {"keyword": "love_day", date: "2022-08-16"},
-      ]，
+        // 结婚纪念日
+        {"keyword": "marry_day", date: "2022-09-09"},
+        // 退伍日
+        {"keyword": "ex_day", date: "2022-09-10"},
+      ]
     },
- 
-  
+    {
+      name: "老婆1",
+      id: "",
+      useTemplateId: "",
+      province: "",
+      city: "",
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: "https://wangxinleo.cn",
+      festivals: [],
+      customizedDateList: []
+    },
+    // 你可以不断按格式往下增加
+    // ...
+  ],
+
   /**
    * 【推送完成提醒】 相关，主要用来展示发送是否成功/失败的数据
    */
