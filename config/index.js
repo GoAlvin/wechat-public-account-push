@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "owwS850A8tGXylnbDYQYJjkolWaQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "EDhvt-JU3Dp_9WsvoE6SU2ivv5HCEhFhd7eHv-ThcmE",
+      useTemplateId: "s_8YVCz4VS2znno7x4XNWlZyBUzISIZ-y8l5Kmg9WQI",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -164,7 +164,7 @@ export const USER_CONFIG = {
    * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2022-08-16"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
